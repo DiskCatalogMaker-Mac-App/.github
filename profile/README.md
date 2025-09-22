@@ -20,7 +20,7 @@ This application is built for professionals, archivists, and anyone who manages 
 
 DiskCatalogMaker supports a wide range of file systems and integrates seamlessly with macOS features like Spotlight. Its intuitive interface makes it easy to create, update, and browse catalogs, saving you valuable time and effort in data management.
 
-![DiskCatalogMaker Interface](https://static.macupdate.com/screenshots/357417/m/800x500bb-screenshot.png?v=1757932682)
+![DiskCatalogMaker Interface](https://images.dwncdn.net/images/t_app-cover-m,f_auto/p/54aeadaf-0718-486c-9624-d8dd43caaaf9/3723386605/2248_4-996-7403c113ed960a0e7914613fd0a5f2ee0fc4_1snapshot-dcm51.en.jpg)
 
 ---
 
